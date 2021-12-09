@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "JavaScript: Interfaces e Herança em Orientação a Objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreCamposs/JS-Orientacao-Objetos-II.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlexandreCamposs/JS-Orientacao-Objetos-II/issues"
+  },
+  "homepage": "https://github.com/AlexandreCamposs/JS-Orientacao-Objetos-II#readme"
+}
